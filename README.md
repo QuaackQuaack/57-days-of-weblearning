@@ -17,3 +17,14 @@ Here I will upload glimse of code I had done in particular day with short inform
 - Book
   - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
 ![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day2.jpg) 
+
+
+**Day 3 of 57 days**
+- *Today I learnt about concept of Application Programming Interface(API) and REpresentational State Transfer (REST) API.In short, REST API is a protocol that allows a developer to perform command or exchange data with a service over a network. Not only that, I learnt about setting basic homepage with links to Login, Logout and Signup Features without repeating myself to setup Urls everytime by hand (DRY) with the help of TemplateView*
+
+- Book 
+  - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
+  - [**Link to learn about REST API**](https://www.reddit.com/r/learnprogramming/comments/apvqie/can_someone_please_explain_like_im_5what_a_rest/)
+![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day3.jpg) 
+
+
