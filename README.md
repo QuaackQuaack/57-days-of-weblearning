@@ -31,3 +31,11 @@ Here I will upload glimse of code I had done in particular day with short inform
 ![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day3.jpg) 
 
 
+**Day 4 of 57 days**
+- *Today I learnt about Testing philosophy of django and 80/20 rules, which states that 80% of consequences come from 20% of causes.There are two types of testing, unit testing and intregration testing . I am following Unit regression testing. Also I learn about bootstrap and made my news app abit clear with the help of django crispy forms.*
+
+- Book
+  - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
+
+![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day4.png) 
+
