@@ -39,3 +39,11 @@ Here I will upload glimse of code I had done in particular day with short inform
 
 ![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day4.png) 
 
+**Day 5 of 57 days**
+- *Today I learnt about setting Template to change password and using django console backend*
+
+- Book
+  - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
+
+![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day5.png) 
+
