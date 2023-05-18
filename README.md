@@ -24,7 +24,7 @@ Here I will upload glimse of code I had done in particular day with short inform
 
 - Book 
   - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
-  - [**Links to learn about REST API**]
+  - **Links to learn about REST API**
     - [**r/learnprogramming**](https://www.reddit.com/r/learnprogramming/comments/apvqie/can_someone_please_explain_like_im_5what_a_rest/)
     - [**r/explainlikeimfive**](https://www.reddit.com/r/explainlikeimfive/comments/1fevr4/eli5_representational_state_transfer_rest_or/)
 
@@ -52,4 +52,4 @@ Here I will upload glimse of code I had done in particular day with short inform
 
 - Resources
   - Books 
-    - [**Django for APIs**]
+    - **Django for APIs**
