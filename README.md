@@ -47,9 +47,18 @@ Here I will upload glimse of code I had done in particular day with short inform
 
 ![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day5.png) 
 
-**Day 5 of 57 days**
+**Day 6 of 57 days**
 - *Today I learn about how web works.Short introduction about Cross-Origin Resource-Sharing(CORS) and Ajax. CORS is basically a HTTP header that allows a server to indicate any origin other than it's own from which a browser should permit loading. Ajax is set of web development technique on client-side to create synchronus web application. URL is made up of Scheme (https, http, ftp), hostname(www.abc.com), and path(/about/), note path is optional part. Not only that, TCP uses three-way handshakes to establish connection which is synchronization(SYN), SYN-ACK, Ackowledgemnt(ACK). There are also many HTTP verbs used in most of web work. To remember https verbs, we can compare them with CRUD: Create equals to POST, Read equals to GET, Update equals to PUT or PATCH and last DELETE which is same in both. Status-codes are another important codes use in web. There are many status codes, but mainly codes start with 2XX links to succes made by client, 3XX links to redirection, 4XX links to client side error and 5XX links to server error.*
 
 - Resources
   - Books 
     - **Django for APIs**
+
+**Day 7 of 57 days**
+- *Today I setup templates for password reset with django built-in emailing system**
+- Book
+  - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
+
+![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day7.png) 
+
+
