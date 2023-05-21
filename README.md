@@ -55,13 +55,24 @@ Here I will upload glimse of code I had done in particular day with short inform
     - **Django for APIs**
 
 **Day 7 of 57 days**
-- *Today I setup templates for password reset with django built-in emailing system**
+- *Today I setup templates for password reset with django built-in emailing system*
 - Book
   - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
 
 ![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day7.png) 
 
 **Day 8 of 57 Days**
-- *Today I revise CRUD feature of django by making bloging app. 
+- *Today I revise CRUD feature of django by making bloging app.*
 - Resource my old code file
+
+**Day 9 of 57 Days**
+- *Today I setup my news web model with CRUD feature and also learnt about managing emails through built-in backend console of django and 3rd party application like Sendgrid. Not, only that, I learnt about customizing the reset password email with the help of source code provided in github.Mainly today, I just code which I had already learnt in chapter 6 with some customization with the help of bootstrap*
+- Book
+  - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
+
+![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day9.png) 
+**Note From now on I will be mainly revision my stuff in django and work on side project.So, I am planning to learn JS**
+
+
+
 
