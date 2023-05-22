@@ -72,3 +72,7 @@ Here I will upload glimse of code I had done in particular day with short inform
 
 ![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day9.png) 
 
+**Day 10 of 57 Days**
+- *Today I learn basic command of Javascript and it's history. Also breif about conditional loop in javascript*
+
+![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day10.png) 
