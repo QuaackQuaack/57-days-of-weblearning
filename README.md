@@ -76,3 +76,9 @@ Here I will upload glimse of code I had done in particular day with short inform
 - *Today I learn basic command of Javascript and it's history. Also breif about conditional loop in javascript*
 
 ![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day10.png) 
+
+**Day 10 of Day 57Days**
+- *Today I learn about types of Javascript values i.e numers, strings, Booleans, and undefined values.Also, learn about short circuit and type coercion in Javascript.*
+
+![Image](https://eloquentjavascript.net/index.html)
+
