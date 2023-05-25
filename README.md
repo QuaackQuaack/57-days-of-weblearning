@@ -67,6 +67,7 @@ Here I will upload glimse of code I had done in particular day with short inform
 
 **Day 9 of 57 Days**
 - *Today I setup my news web model with CRUD feature and also learnt about managing emails through built-in backend console of django and 3rd party application like Sendgrid. Not, only that, I learnt about customizing the reset password email with the help of source code provided in github.Mainly today, I just code which I had already learnt in chapter 6 with some customization with the help of bootstrap*
+
 - Book
   - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
 
@@ -80,5 +81,17 @@ Here I will upload glimse of code I had done in particular day with short inform
 **Day 10 of Day 57Days**
 - *Today I learn about types of Javascript values i.e numers, strings, Booleans, and undefined values.Also, learn about short circuit and type coercion in Javascript.*
 
-![Image](https://eloquentjavascript.net/index.html)
+[Resource for Js](https://eloquentjavascript.net/index.html)
+
+**Day 11 of Day 57 Days**
+- *Sorry, missed yesterday portion, Today I learn many new topics mixins, method resolution system, authentication in django, authorization and also building comment section in django. I will explain them separatly in each session
+  - *Mixins,(Multiple inheritance).I am approaching class based view and in django making our code complex is quite wrong approach. SO, with the help of abstract of django I setuped LoginRequiredMixin, UserPassesTestMixin which checks whether the user is logged in while working on CRUD and sets loggedIn user as author of the blog respectively. This way we control authorization of data to authenticate person. 
+  - *Also, I setup comment feature in blog, which is quite hard to understand at first.But I will go throughly about things I am quite familier. We should use Mixins and View of GET and POST separate and then pass them to wrapper view to avoid conflict. So, we made different view for GET and POST of comment. Also, I learned about many to one relationship in foreignkey (made relationship between comments and article). 
+  - *One more thing about django, Class-based views are powerful and in django, templates are complied only once to increase performance so, we must load everything from beginning into the context.For this, I learned about get_context_data() that add information to a template by updating the context.
+
+- Book
+  - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
+
+![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day11.png) 
+![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day11(1).png) 
 
