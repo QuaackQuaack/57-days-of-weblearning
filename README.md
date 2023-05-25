@@ -93,5 +93,5 @@ Here I will upload glimse of code I had done in particular day with short inform
   - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
 
 ![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day11.png) 
-![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day11(1).png) 
+![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day11b.png)
 
