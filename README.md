@@ -95,3 +95,13 @@ Here I will upload glimse of code I had done in particular day with short inform
 ![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day11.png) 
 ![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day11b.png)
 
+**Day 12 of Day 57 Days**
+- *Today, I learn about deployment process in django.There is difference outlook of our program in production and deployement level. I learn to balance our production and deployement through Environment varaibles.At first I setup Environment variable with the django-project called [Environs](https://github.com/sloria/environs#features). I created .env files which contains all my hidden files like SECRET_KEYS, DEBUG, DATABASES_URL.Also, I made .gitignore files.It allows me to ignore files bro version control and control them in local machine only.Also, I learn to create my own secret keys with python.As our site grows we also need to take care of static files.So I use whitenoise package and set my MIDDLEWARE, STATICFILES_STORAGE based on whitenoise.At, last I setup GUNICORN for WSGI and create requirement.txt file with pip freeze > requirements.txt.*
+
+- Book
+  - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
+  - [**Documentation For Deployement List**](https://docs.djangoproject.com/en/4.2/howto/deployment/checklist/)
+
+![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day12.png) 
+
+
