@@ -104,4 +104,9 @@ Here I will upload glimse of code I had done in particular day with short inform
 
 ![Image](https://github.com/QuaackQuaack/57-days-of-weblearning/blob/main/image/day12.png) 
 
+**Day 13 of Day 57**
+- *Few days ago I learn about comment setup, but today I went in detail about how django automatically set raltionship between defined model. Also, django makes our work quite easier in Object Relational Mapping.For example in my current project I made two model comments and Article and comment model have ForeignKey refrencing Article model so, to access the respective comment about article django creates attribute 'comment_set'. Generally, this is called `FOO_set` where FOO is lowercased name of source model.Also, I learned about two type of inliner in web. StackedInliner and TabularInliner(my fav too). These inliner are used to show comments in admin panel in either stacked form or tabular form. To set Inliner we edit our code through in admin.py by making one separate class and register it with model.*
 
+- Book
+  - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
+ 
