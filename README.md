@@ -110,3 +110,12 @@ Here I will upload glimse of code I had done in particular day with short inform
 - Book
   - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
  
+**Day 14 of Day 57**
+- *Today I learn about how generic class based are setup and its pros over function based, like using mixins and to override specific module to obtain desire outcome.Also,I revised about separting GET and POST class from DetailView because to make clear seperation and make my code clear.but I am still not getting the concept of Docker*
+
+- Book
+  - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
+  - [**Docker Intro**](https://youtu.be/aLipr7tTuA4)
+
+
+ 
