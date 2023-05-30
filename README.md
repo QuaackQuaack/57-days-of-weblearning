@@ -117,5 +117,9 @@ Here I will upload glimse of code I had done in particular day with short inform
   - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
   - [**Docker Intro**](https://youtu.be/aLipr7tTuA4)
 
+**Day 15 of Day 57**
+- *Yesterday I learned about managing version control and monolith way of making app so, I didn't commit about it because I want to make this repo about web. Today, I learned about CustomUser and migrations importance in django. I was unknown about order of migration and error occur while inconsistancy.About CustomUser, We make different AUTH_USER_MODEL and add Age field in SignUp with the help of AbstractUser.*
 
- 
+- Book
+  - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
+
