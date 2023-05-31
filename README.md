@@ -123,3 +123,10 @@ Here I will upload glimse of code I had done in particular day with short inform
 - Book
   - [**Django for beginner**](https://djangoforbeginners.com/introduction/)
 
+**Day 16 of day 57**
+- *today I learn basic syntax of docker and managing image,how it help us to perform microservice on a single piece without being worry about it requiremnt like version,OS.Now, I am sure about syntax but to grasp the pratical importance of it, I guess I need to learn in through working.I will try to work on some project that involves docker or use docker*
+
+- Resource
+  - [reddit](https://www.reddit.com/r/docker/comments/vapb6z/eli5_what_is_docker/)
+  - [youtube](https://www.reddit.com/r/docker/comments/vapb6z/eli5_what_is_docker/)
+
