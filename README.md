@@ -130,3 +130,8 @@ Here I will upload glimse of code I had done in particular day with short inform
   - [reddit](https://www.reddit.com/r/docker/comments/vapb6z/eli5_what_is_docker/)
   - [youtube](https://www.reddit.com/r/docker/comments/vapb6z/eli5_what_is_docker/)
 
+**Day 17 of day 57**
+- *I am working on making Sign-Up pages with django and adding other fields according to user desire. For that today, I learned about Meta class with help us to add attribute to the class and also type of fields data.Currently I am facing challenge on migration part of model.I will leave link to repo of Sign-up after it's completion.*
+- Resource
+  - [geeksforgeeks about fields](https://www.geeksforgeeks.org/positiveintegerfield-django-models/)
+  - [Meta class from official doc](https://docs.djangoproject.com/en/4.0/topics/forms/modelforms/#overriding-the-default-fields)
