@@ -132,6 +132,15 @@ Here I will upload glimse of code I had done in particular day with short inform
 
 **Day 17 of day 57**
 - *I am working on making Sign-Up pages with django and adding other fields according to user desire. For that today, I learned about Meta class with help us to add attribute to the class and also type of fields data.Currently I am facing challenge on migration part of model.I will leave link to repo of Sign-up after it's completion.*
+
 - Resource
   - [geeksforgeeks about fields](https://www.geeksforgeeks.org/positiveintegerfield-django-models/)
   - [Meta class from official doc](https://docs.djangoproject.com/en/4.0/topics/forms/modelforms/#overriding-the-default-fields)
+
+**DAY 18 of Day 57**
+- *It's not like I didn't learn yesterday, but I was stuck on authentication and authorization by third-party login provider in django.Today I finally finished by setup on third-party login provider( like github, google).So, first of all I setup my authentication package as django-allauth whose documents are so well written.Django-allauth helps me to addressing authentication, registration and manage third-party account authentication. Not only that,I also learned about setting up social account.First of all we need Oauth account for that which we can get through their respective site like [google](console.cloud.google.com). After that you can over-ride login in template or view or through admin site.*
+
+-Resource 
+ - [Digital Ocean Setup ](https://www.digitalocean.com/community/tutorials/how-to-authenticate-django-apps-using-django-allauth)
+ - [Blog on Social login](https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html)
+ - [django allauth officiail](https://django-allauth.readthedocs.io/en/latest/index.html)
