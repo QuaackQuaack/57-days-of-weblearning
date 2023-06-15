@@ -144,3 +144,7 @@ Here I will upload glimse of code I had done in particular day with short inform
  - [Digital Ocean Setup ](https://www.digitalocean.com/community/tutorials/how-to-authenticate-django-apps-using-django-allauth)
  - [Blog on Social login](https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html)
  - [django allauth officiail](https://django-allauth.readthedocs.io/en/latest/index.html)
+
+**DAY 19 of Day 57**
+- *Today I had finalized my blog about authentication system in django.
+
